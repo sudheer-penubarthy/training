@@ -1,2 +1,2 @@
 # training
-Sample for training
+Sample for training initial commit
